@@ -1,6 +1,9 @@
 micronaut:
   application:
     name: demom
+endppoints:
+  routes:
+    sensitive: false
 netty:
   default:
     allocator:
